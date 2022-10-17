@@ -1,0 +1,15 @@
+
+What makes a good Text Editor for coding?
+
+- Automatic indentation.
+
+- Syntax highlighting.
+
+- Predictive text for keywords/variable names.
+
+- Auto line numbering.
+
+- And most importantly: DARK MODE
+  (basically the ability to customize themes)
+
+- All these features are available in Vim and Sublime Text.

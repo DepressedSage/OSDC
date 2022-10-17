@@ -1,0 +1,14 @@
+
+What is an IDE?
+
+- IDE stands for Integrated Development Environment.
+
+- An IDE combines a text editor with other coding tools such as:
+
+    > Debugging tools e.g. break points, trace tables.
+
+    > File and module management tools.
+
+    > Collaboration / cloud tools like github.
+
+    > Emulators, e.g. running a mobile application.

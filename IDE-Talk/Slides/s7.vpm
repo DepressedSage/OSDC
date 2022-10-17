@@ -1,0 +1,8 @@
+
+Installing Vim
+
+- Linux/Unix: Comes installed with practically all distributions.
+
+- OSX: Ships with Vim, but use MacVim for a GUI
+
+- Windows: Use gVim (Since Vim is a Unix specific application)

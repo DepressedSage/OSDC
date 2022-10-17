@@ -1,0 +1,16 @@
+
+Good IDEs?
+
+- a few examples of good IDEs:
+
+    > Visual Studio Code (the classic)
+      it is a good IDE with a lot of features, plugins, integrations.
+      in the recent years it is also the go to for many new developers.
+
+    > Goland
+      it is an IDE developed by JetBrains, while primarily aimed
+      for GO development, it is also used for general purpose
+      development.
+
+    > PyCharm
+      also developed by JetBrains, it is mainly aimed at python development.

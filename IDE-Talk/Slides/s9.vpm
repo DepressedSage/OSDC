@@ -1,0 +1,13 @@
+
+Surviving in Vim!
+
+- H J K L help you move.
+
+- i gets you into Insert mode.
+
+- <ESC> Always get's you back to Normal mode.
+
+- :wq<Enter> Saves and quits Vim.
+  (Now you can understand all the "I can't exit Vim" memes, You're welcome! uwu )
+
+- Pretty easy right? :P

@@ -1,0 +1,12 @@
+
+The Modal Editor
+
+- We spend more time reading and editing than typing!
+
+- Vim has 3 predefined modes:
+
+    > Normal Mode: All keystrokes are interpreted as commands.
+
+    > Insert Mode: Regular typing as know it.
+
+    > Visual Mode: Highlighting
